@@ -1,2 +1,12 @@
+# Terraform
+*.tfstate
+*.tfstate.*
 .terraform/
 .terraform.lock.hcl
+
+# Python
+__pycache__/
+*.pyc
+
+# Kubernetes
+*.yaml
